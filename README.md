@@ -77,11 +77,17 @@ Overall, the findings are consistent with clinical knowledge and highlight the i
 
 ---
 
+## Next Steps
+
+- Build a predictive model for stroke risk
+- Handle class imbalance using resampling techniques
+- Perform feature importance analysis
+
 ## Tools Used
 
 - Python (Pandas, NumPy)
-- Seaborn & Matplotlib
-- Google Colab
+- Data Visualization (Seaborn, Matplotlib)
+- Jupyter Notebook (Google Colab)
 
 ---
 
